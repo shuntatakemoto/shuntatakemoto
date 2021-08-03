@@ -5,7 +5,7 @@
 <!-- <a href="https://github.com/shuntatakemoto">
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuntatakemoto&layout=compact&theme=dracula" />
 </a> -->
-<a href="https://github.com/shuntatakemoto">
+<!-- <a href="https://github.com/shuntatakemoto">
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username="shuntatakemoto" />
-</a>
+</a> -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
