@@ -7,6 +7,6 @@
 </a> -->
 
 <a href="https://github.com/shuntatakemoto">
-  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username="shuntatakemoto" />
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuntatakemoto" />
 </a>
 
